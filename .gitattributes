@@ -1,0 +1,11 @@
+# See https://github.com/github/linguist
+
+public/* linguist-vendored
+*.html linguist-vendored
+yarn.lock linguist-generated
+
+*.svg text
+*.tsx linguist-detectable
+*.ts linguist-detectable
+*.woff2 binary
+# eof 35d2918b
